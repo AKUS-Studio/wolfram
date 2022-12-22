@@ -1,0 +1,4 @@
+name: Wolfram
+version: '${project.version}'
+main: works.akus.wolfram.Wolfram
+api-version: 1.19
